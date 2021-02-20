@@ -1,8 +1,8 @@
 # Visualizations of King County, WA and COVID Emergency Meals
-A Leaflet map of COVID emergency food and meals throughout Seattle and King County, WA. https://esiangkam.github.io/COVIDEmergencyFood/index.html
+A Leaflet map of COVID emergency food and meals throughout Seattle and King County, WA. https://esiangkam.github.io/emergencyfoodcovid/index.html
 
 ## Introduction
-This is a webmap that displays a modified basemap, emergency food and meals in King County during COVID, and a Harry Potter themed basemap. Since the data for the thematic layer specifically centers upon King County, the examined geographic area reflects King County - with data focused most popularly in Seattle. The map can be accessed [here](https://esiangkam.github.io/COVIDEmergencyFood/index.html).
+This is a webmap that displays a modified basemap, emergency food and meals in King County during COVID, and a Harry Potter themed basemap. Since the data for the thematic layer specifically centers upon King County, the examined geographic area reflects King County - with data focused most popularly in Seattle. The map can be accessed [here](https://esiangkam.github.io/emergencyfoodcovid/index.html).
 
 ## Contents
 - assets - tile images
